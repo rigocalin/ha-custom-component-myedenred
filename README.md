@@ -8,7 +8,7 @@
 # myEdenred Card Integration
 myEdenred - Custom Component for Home Assistant
 
-The data source for this integration is the [MyEdenred Portugal](https://www.myedenred.pt/).
+The data source for this integration is the [MyEdenred Romania](https://www.myedenred.ro/).
 
 The author of this project categorically rejects any and all responsibility for the card balance and other data that were presented by the integration.
 
@@ -155,7 +155,7 @@ tap_action:
 ```
 
 # Legal notice
-This is a personal project and isn't in any way affiliated with, sponsored or endorsed by [MyEdenred Portugal](https://www.myedenred.pt/).
+This is a personal project and isn't in any way affiliated with, sponsored or endorsed by [MyEdenred Romania](https://www.myedenred.ro/).
 
 All product names, trademarks and registered trademarks in (the images in) this repository, are property of their respective owners. All images in this repository are used by the project for identification purposes only.
 

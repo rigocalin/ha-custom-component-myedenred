@@ -4,21 +4,21 @@
         "step": {
             "user": {
                 "title": "Credenciais de Acesso",
-                "description": "Por favor, introduza o seu nome de utilizador e palavra passe que usa para ter acesso ao portal https://www.myedenred.pt/.",
+                "description": "Por favor, introduza o seu nome de utilizador e palavra passe que usa para ter acesso ao portal https://www.myedenred.ro/.",
                 "data": {
                     "username": "Email",
                     "password": "Palavra Passe",
                     "includeTransactions": "Incluir a lista de transações?"
                 },
                 "data_description": {
-                    "username": "O Email usado para aceder ao portal https://www.myedenred.pt/",
-                    "password": "O Palavra Passe usada para aceder ao portal https://www.myedenred.pt/",
+                    "username": "O Email usado para aceder ao portal https://www.myedenred.ro/",
+                    "password": "O Palavra Passe usada para aceder ao portal https://www.myedenred.ro/",
                     "includeTransactions": "Incluir a lista de transações"
                 }
             }
         },
         "error": {
-            "auth": "Credenciais inválidas para https://www.myedenred.pt/."
+            "auth": "Credenciais inválidas para https://www.myedenred.ro/."
         },
         "abort": {
             "single_instance_allowed": "Só é permitida uma unica integração do myEdenred.",
